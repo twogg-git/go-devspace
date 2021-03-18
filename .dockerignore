@@ -1,0 +1,6 @@
+.git
+.gitignore
+.devspace
+Dockerfile
+cluster.yaml
+devspace.yaml
